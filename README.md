@@ -31,4 +31,4 @@ I used an ensemble of XGBoost models to predict the functionality of the water p
 
 ### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
 
-[Link] https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/
+[Link]https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/
