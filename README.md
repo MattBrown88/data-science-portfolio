@@ -26,3 +26,9 @@ I used an ensemble of XGBoost models to predict the functionality of the water p
 [Github](https://github.com/MattBrown88/Pump-it-Up-XGBoost-Ensemble)
 
 ## Tutorials
+
+## Analysis
+
+### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
+
+[Link] https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/
