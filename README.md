@@ -38,6 +38,11 @@ This script generates an optimal daily fantasy lineup based on points projection
 
 ## Tutorials
 
+### How To: Apply Family of Functions in R
+
+A tutorial on the apply family of functions in R. 
+[Link](https://redoakstrategic.com/applyfunctions/)
+
 ## Analysis
 
 
