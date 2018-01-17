@@ -1,21 +1,19 @@
 # data-science-portfolio
 A portfolio of my data science projects
 
-## Daily Fantasy Sports Analytics
+## R Shiny Applications
 
 ### NBA Daily Fantasy Lineup Builder
 An R Shiny application which allows users to generate custom lineups.
 
-[R Shiny Application](http://premium.shinyapps.io/nba_fantasy_projections/) [Github](https://github.com/MattBrown88/NBA-Fan-Duel-Shiny-App)
+[Application](http://premium.shinyapps.io/nba_fantasy_projections/) [Github](https://github.com/MattBrown88/NBA-Fan-Duel-Shiny-App)
 
-### Daily Fantasy Sports Lineup Optimization
-This script generates an optimal daily fantasy lineup based on points projections while staying under the salary limit. It uses the R package lpSolve.
+### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
 
-[Github](https://github.com/MattBrown88/lpsolve---Daily-Fantasy-Sports-Optimization)
-
+[Link](https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/)
 
 
-## Data Science Competitions
+## Machine Learning
 
 ### Pump it Up: Data Mining the Water Table - Hosted by DrivenData.org
 
@@ -25,10 +23,21 @@ I used an ensemble of XGBoost models to predict the functionality of the water p
 
 [Github](https://github.com/MattBrown88/Pump-it-Up-XGBoost-Ensemble)
 
+### NBA Daily Fantasy Sports Projections
+
+Projecting NBA player stats using machine learning.
+
+[Github](https://github.com/MattBrown88/DFS-Projections)
+
+## Optimization
+
+### Daily Fantasy Sports Lineup Optimization
+This script generates an optimal daily fantasy lineup based on points projections while staying under the salary limit. It uses the R package lpSolve.
+
+[Github](https://github.com/MattBrown88/lpsolve---Daily-Fantasy-Sports-Optimization)
+
 ## Tutorials
 
 ## Analysis
 
-### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
 
-[Link](https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/)
