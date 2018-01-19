@@ -4,11 +4,13 @@ A portfolio of my data science projects
 ## R Shiny Applications
 
 ### NBA Daily Fantasy Lineup Builder
-An R Shiny application which allows users to generate custom lineups.
+An R Shiny application to build custom fantasy sports lineups. Users are able to generate up to 100 unique lineups optimized for projected points scored. Users can adjust expected points to optimize their lineups
 
 [Application](http://premium.shinyapps.io/nba_fantasy_projections/) [Github](https://github.com/MattBrown88/NBA-Fan-Duel-Shiny-App)
 
 ### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
+
+An R Shiny application which uses the leaflet package to display a geospatial dataset. Users can adjust the map display based on filters.
 
 [Link](https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/)
 
@@ -17,9 +19,7 @@ An R Shiny application which allows users to generate custom lineups.
 
 ### Pump it Up: Data Mining the Water Table - Hosted by DrivenData.org
 
-Competition Description: Can you predict which water pumps are faulty? Using data from Taarifa and the Tanzanian Ministry of Water, can you predict which pumps are functional, which need some repairs, and which don't work at all? 
-
-I used an ensemble of XGBoost models to predict the functionality of the water pumps
+A data science competition in which I used machine learning to predict the functionality of water pumps in Tanzania
 
 [Github](https://github.com/MattBrown88/Pump-it-Up-XGBoost-Ensemble)
 
