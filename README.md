@@ -17,6 +17,12 @@ An R Shiny application which uses the leaflet package to display a geospatial da
 
 ## Machine Learning
 
+### Time Series Forecasting using Machine Learning: An Example from Kaggle
+
+A tutorial on how to build a machine learning model to forecast time series data. The data used was from a Kaggle competition to forecast sales for a large grocery chain.
+
+[Link](http://rpubs.com/mattBrown88/TimeSeriesMachineLearning)
+
 ### Pump it Up: Data Mining the Water Table - Hosted by DrivenData.org
 
 A data science competition in which I used machine learning to predict the functionality of water pumps in Tanzania
