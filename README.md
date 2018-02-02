@@ -6,7 +6,7 @@ A portfolio of my data science projects
 ### NBA Daily Fantasy Lineup Builder
 An R Shiny application to build custom fantasy sports lineups. Users are able to generate up to 100 unique lineups optimized for projected points scored. Users can adjust expected points to optimize their lineups
 
-[Application](http://premium.shinyapps.io/nba_fantasy_projections/) [Github](https://github.com/MattBrown88/NBA-Fan-Duel-Shiny-App)
+[Application](http://premium.shinyapps.io/nba_fantasy_projections/) 
 
 ### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
 
