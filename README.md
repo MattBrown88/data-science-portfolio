@@ -14,6 +14,10 @@ An R Shiny application which uses the leaflet package to display a geospatial da
 
 [Link](https://redoakstrategic.com/exploratory_data_analysis_cdc_500_cities_r_shiny/)
 
+### Exploratory Data Analysis of the CDC's '500 Cities Project' - Part 2
+
+[Link](http://rpubs.com/mattBrown88/360518)
+
 
 ## Machine Learning
 
