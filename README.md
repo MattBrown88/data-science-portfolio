@@ -29,6 +29,8 @@ A tutorial on how to build a machine learning model to forecast time series data
 
 [Link](http://rpubs.com/mattBrown88/TimeSeriesMachineLearning)
 
+[Link](https://www.dropbox.com/s/hbn6llmtk47s64f/Time%20Series%20Analysis%20with%20Machine%20Learning.pdf?dl=0) to the slides for a talk I gave on this subject.
+
 ### Pump it Up: Data Mining the Water Table - Hosted by DrivenData.org
 
 A data science competition in which I used machine learning to predict the functionality of water pumps in Tanzania
