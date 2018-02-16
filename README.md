@@ -1,5 +1,5 @@
 # data-science-portfolio
-A portfolio of my data science projects
+A list of my personal data science projects. There are examples of data-driven applications, predictive modeling, exploratory data analysis, optimization and tutorials.
 
 ## R Shiny Applications
 
