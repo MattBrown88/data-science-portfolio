@@ -6,7 +6,7 @@ A list of my personal data science projects. There are examples of data-driven a
 ### NBA Daily Fantasy Lineup Builder
 An R Shiny application to build custom fantasy sports lineups. Users are able to generate up to 100 unique lineups optimized for projected points scored. Users can adjust expected points to optimize their lineups
 
-[Application](http://dailyfantasyiq.com) 
+[Application](https://premium.shinyapps.io/appfiles/) 
 
 ### Exploratory Data Analysis of the CDC’s ‘500 Cities Project’ – Part 1
 
