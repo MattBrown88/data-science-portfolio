@@ -57,6 +57,11 @@ This script generates an optimal daily fantasy lineup based on points projection
 A tutorial on the apply family of functions in R. 
 [Link](https://redoakstrategic.com/applyfunctions/)
 
+### Overview of the R Reticulate Package
+
+An overview of a few features of the R reticulate package.
+[Link](http://rpubs.com/mattBrown88/407460)
+
 ## Analysis
 
 
